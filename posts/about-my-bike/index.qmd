@@ -1,0 +1,12 @@
+---
+title: "About My Bike"
+author: "Sarah"
+date: "2023-03-27"
+categories: [pretrip]
+image: "sarahs-bike-bow-river.jpg"
+---
+
+My bike is a 2013 Trek 520 (updated cassette, handlebars, saddle, pedals). A beautiful burly steel frame with 700c tires
+
+![](sarahs-bike-bow-river.jpg)
+

@@ -7,11 +7,10 @@ website:
   navbar:
     right:
       - about.qmd
-      - icon: github
-        href: https://github.com/acebulsk
+      - index.qmd
 format:
   html:
-    theme: vapor
+    theme: pulse
     css: styles.css
 
 

@@ -4,27 +4,55 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "This blog is mainly for my Mom, so she can stay up to date as I travel by bike from Sweden to Italy."
   },
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "title": "Welcome",
     "section": "",
-    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "title": "About My Bike",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "This is a post about biking! ::bike::\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Sarah’s Posts",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 27, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\npretrip\n\n\n\n\n\n\n\n\n\n\n\nMar 24, 2023\n\n\nSarah\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n  \n\n\n\n\nPacking for Europe\n\n\n\n\n\n\n\npretrip\n\n\n\n\n\n\n\n\n\n\n\nApr 30, 2023\n\n\nSarah\n\n\n\n\n\n\n  \n\n\n\n\nHaida Gwaii\n\n\n\n\n\n\n\npretrip\n\n\n\n\n\n\n\n\n\n\n\nApr 12, 2023\n\n\nSarah\n\n\n\n\n\n\n  \n\n\n\n\nAbout My Bike\n\n\n\n\n\n\n\npretrip\n\n\n\n\n\n\n\n\n\n\n\nMar 27, 2023\n\n\nSarah\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "test.html",
+    "href": "test.html",
+    "title": "Test Me",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/Haida Gwaii/index.html",
+    "href": "posts/Haida Gwaii/index.html",
+    "title": "Haida Gwaii",
+    "section": "",
+    "text": "A successful shakedown cruise to Haida Gwaii - Literally the hurricane force winds blew me over."
+  },
+  {
+    "objectID": "posts/dry-fit/index.html",
+    "href": "posts/dry-fit/index.html",
+    "title": "Packing for Europe",
+    "section": "",
+    "text": "Did a “dry fit” and the bike feels manageable and looks cute.\nI packed slightly less gear than what I took to Haida Gwaii in April and its noticeably lighter and more balanced.\n\nGot a cardboard bike box and wine box and stuffed them both to the brim. I hope to ditch the warm extra clothing as the trip progresses.\nThe final packing list includes:\n\nBike 2013 Trek 520 (updated cassette, handlebars, saddle, pedals). A beautiful burly steel frame with 700c tires\nFront and rear bike lights\nSpare tubes\nZap straps\nElectrical tape\nSpare nuts and bolts\nSpare chain links\nPedal wrench\nHandlebar spacers\nTire levers\nWet and dry chain lube Chain / bike cleaning rag\nMini tire pump\nLeatherman\nSmall camp pot\nBowl/plate combo\nCutting board\nKnife\nCutlery\nCoffee mug (250 ml)\nLighter\nCamp suds\nPour over coffee maker (splurge)\nNo stove because it was confiscated by air Canada when flying to Haida Gwaii. A new fancy one will be purchased on Stockholm.\n3 shirts 1 pair of shorts 2 pairs of pants\nSleeping pants\nMany pairs of undies\n3 sporty bras\n4 pairs of socks\nSwimsuit Puffy down jacket\nSweater Rain jacket\nRain pants\nMedium weight waterproof bike gloves\nBuff Toque\nBall cap\nSandals\nRunners Bike cleats\n2.5 litre bladder\n500ml collapsible water bottle\n5 ski straps\nSolar light/battery bank\nBlock charger and cables\nPoint and shoot camera\nHeadlamp and extra bats\nBike bell Towel\nSunglasses Clear glasses\nHelmet Medical kit\nCosmetics\nTent\nSleeping mat\nSleeping bag\nPassport\nPhone\nEurope lonely planet book\nBags and panniers"
+  },
+  {
+    "objectID": "posts/about-my-bike/index.html",
+    "href": "posts/about-my-bike/index.html",
+    "title": "About My Bike",
+    "section": "",
+    "text": "Bike 2013 Trek 520 (updated cassette, handlebars, saddle, pedals). A beautiful burly steel frame with 700c tires"
   }
 ]

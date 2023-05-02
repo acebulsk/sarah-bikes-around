@@ -1,0 +1,14 @@
+{
+  "hash": "c560e04c6745f4e97348b41655208bd5",
+  "result": {
+    "markdown": "---\ntitle: \"Haida Gwaii\"\nauthor: \"Sarah\"\ndate: \"2023-03-27\"\ncategories: [pretrip]\nimage: \"image.jpg\"\n---\n\n\nFirst Line.\n\nSecond line.\n\nggfdfg\ng\nsdfgsdf\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

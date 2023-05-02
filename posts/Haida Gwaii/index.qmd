@@ -1,0 +1,11 @@
+---
+title: "Haida Gwaii"
+author: "Sarah"
+date: "2023-04-12"
+categories: [pretrip]
+image: "canoe-on-beach.jpg"
+---
+
+A successful shakedown cruise to Haida Gwaii - Literally the hurricane force winds blew me over.
+
+![](canoe-on-beach.jpg)

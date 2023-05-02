@@ -1,8 +1,8 @@
 ---
 title: "About"
-image: profile.jpg
+image: posts/about-my-bike/sarahs-bike-bow-river.jpg
 about:
   template: jolla
 ---
 
-About this blog
+This blog is mainly for my Mom, so she can stay up to date as I travel by bike from Sweden to Italy. 
