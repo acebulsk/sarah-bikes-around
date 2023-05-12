@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Sarah’s Posts",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n  \n\n\n\n\nPacking for Europe\n\n\n\n\n\n\n\npretrip\n\n\n\n\n\n\n\n\n\n\n\nApr 30, 2023\n\n\nSarah\n\n\n\n\n\n\n  \n\n\n\n\nHaida Gwaii\n\n\n\n\n\n\n\npretrip\n\n\n\n\n\n\n\n\n\n\n\nApr 12, 2023\n\n\nSarah\n\n\n\n\n\n\n  \n\n\n\n\nAbout My Bike\n\n\n\n\n\n\n\npretrip\n\n\n\n\n\n\n\n\n\n\n\nMar 27, 2023\n\n\nSarah\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n  \n\n\n\n\nRode to Stockholm\n\n\n\n\n\n\n\neurope\n\n\n\n\n\n\n\n\n\n\n\nMay 2, 2023\n\n\nSarah\n\n\n\n\n\n\n  \n\n\n\n\nFlight to Sweden\n\n\n\n\n\n\n\neurope\n\n\n\n\n\n\n\n\n\n\n\nMay 1, 2023\n\n\nSarah\n\n\n\n\n\n\n  \n\n\n\n\nPacking for Europe\n\n\n\n\n\n\n\npretrip\n\n\n\n\n\n\n\n\n\n\n\nApr 30, 2023\n\n\nSarah\n\n\n\n\n\n\n  \n\n\n\n\nHaida Gwaii\n\n\n\n\n\n\n\npretrip\n\n\n\n\n\n\n\n\n\n\n\nApr 12, 2023\n\n\nSarah\n\n\n\n\n\n\n  \n\n\n\n\nAbout My Bike\n\n\n\n\n\n\n\npretrip\n\n\n\n\n\n\n\n\n\n\n\nMar 27, 2023\n\n\nSarah\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "test.html",
@@ -53,6 +53,20 @@
     "href": "posts/about-my-bike/index.html",
     "title": "About My Bike",
     "section": "",
-    "text": "Bike 2013 Trek 520 (updated cassette, handlebars, saddle, pedals). A beautiful burly steel frame with 700c tires"
+    "text": "My bike is a 2013 Trek 520 (updated cassette, handlebars, saddle, pedals). A beautiful burly steel frame with 700c tires"
+  },
+  {
+    "objectID": "posts/flight-to-sweden/index.html",
+    "href": "posts/flight-to-sweden/index.html",
+    "title": "Flight to Sweden",
+    "section": "",
+    "text": "There was a medical emergency on the flight. The captain called for a doctor on the intercom multiple times but there weren’t any on the flight. An elderly woman appeared to be having a stroke or seizure. The EMTs took her from the plane at London Heathrow.\nI didn’t pay attention to airport signage and cleared customs into the UK instead of heading to my gate. I showed my ticket to a helpful customs official and asked what to do and they said I’d have to go back through security at Terminal 5 by taking the lift to the train. And run because you don’t have any time. I got to security at Terminal 5 and was promptly asked to go to Terminal 2. I cleared security another sprint, lift, and train later and made it to my gate with minutes to spare.\nNicole’s flight landed before mine and we met at the hotel in Arlanda."
+  },
+  {
+    "objectID": "posts/01-stockholm/index.html",
+    "href": "posts/01-stockholm/index.html",
+    "title": "Rode to Stockholm",
+    "section": "",
+    "text": "We woke to sunny skies and rode to Stockholm. Bike paths the entire way. We dropped our bags off at the Red Boat hotel and then walked Gamla Stan, seeing the Nobel Prize museum, royal palace, which has the most rooms out of any royal residence in Europe, parliament, etc."
   }
 ]

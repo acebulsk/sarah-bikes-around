@@ -2,6 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/01-stockholm/index.html",
+      "/posts/flight-to-sweden/index.html",
       "/posts/dry-fit/index.html",
       "/posts/Haida Gwaii/index.html",
       "/posts/about-my-bike/index.html"
