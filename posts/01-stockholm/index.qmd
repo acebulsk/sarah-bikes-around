@@ -2,7 +2,7 @@
 title: "Rode to Stockholm"
 author: "Sarah"
 date: "2023-05-02"
-categories: [europe]
+categories: [sweden]
 image: "image_67213569.JPG"
 ---
 

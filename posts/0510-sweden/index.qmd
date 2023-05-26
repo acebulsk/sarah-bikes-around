@@ -1,0 +1,11 @@
+---
+title: "Laundry in Kungälv"
+author: "Sarah"
+date: "2023-05-05"
+categories: [sweden]
+image: "IMG_9028.jpg"
+---
+
+We had a relaxing day with Pia and Mats in Kungälv and ate them out of house and home. We did laundry and now have clean undies and socks.
+
+![](IMG_9028.jpg)

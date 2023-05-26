@@ -2,7 +2,7 @@
 title: "Flight to Sweden"
 author: "Sarah"
 date: "2023-05-01"
-categories: [europe]
+categories: [sweden]
 image: "image_50461953.JPG"
 ---
 
